@@ -1,0 +1,25 @@
+{
+  "name": "site-fish",
+  "version": "1.0.0",
+  "description": "Сайт о рыбках",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgeniyaKalit/site-fish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgeniyaKalit/site-fish/issues"
+  },
+  "homepage": "https://github.com/EvgeniyaKalit/site-fish#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
